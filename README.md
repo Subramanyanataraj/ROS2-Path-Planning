@@ -1,4 +1,5 @@
 # ROS 2 Path Planning Workspace
+![A* Path Planning](AStar.gif )
 
 ## Table of Contents
 
